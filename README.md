@@ -1,4 +1,5 @@
-**Banking Application - Java Console-Based Bank System 🏦💰**
+****Banking Application - Java Console-Based Bank System 🏦💰****
+
 This is a simple console-based banking application built in Java, allowing users to perform essential banking operations such as:
 a.Checking balance
 b.Depositing and withdrawing funds
